@@ -178,7 +178,7 @@ Use the button in the Quick Start section above.
 
 | **Build** | **Date** | **Notes** |
 | --- | --- | --- |
-| 2026.4 | 2026-10-25 | Latest stable, current release |
+| 2026.4 | 2026-11-06 | Latest stable, current release |
 | 2026.3 | earlier | Performance improvements |
 | 2026.2 | earlier | Bug fixes |
 | 2026.1 | earlier | First public build |
@@ -332,4 +332,4 @@ any stored ban record.
 
 ---
 
-*team-fortress-2-peak · Updated 2026-10-25 · Shared under the MIT License*
+*team-fortress-2-peak · Updated 2026-11-06 · Shared under the MIT License*
